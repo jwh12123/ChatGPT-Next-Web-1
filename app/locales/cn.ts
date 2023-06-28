@@ -220,7 +220,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "由Jwh进行二次开发免费提供给同学们使用",
+    BotHello: "**更新公告**\n\n网站已经更改默认最佳设置，请点击设置界面最上方的重置所有选项按钮进行重置\n\n默认使用gpt-3.5-turbo-0613（支持2000字左右上下文）,如果想用支持更长上下文的模型请切换到16k（支持8000字左右上下文，但回复速度会变慢）",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
