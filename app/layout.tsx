@@ -5,8 +5,8 @@ import "./styles/highlight.scss";
 import { getClientConfig } from "./config/client";
 
 export const metadata = {
-  title: "ChatGPT Next We1b",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "Jwh's ChatGPT Web",
+  description: "Your personal ChatGPT Chat web.",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -17,7 +17,7 @@ export const metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "ChatGPT Next Web",
+    title: "Jwh's ChatGPT Web",
     statusBarStyle: "default",
   },
 };
